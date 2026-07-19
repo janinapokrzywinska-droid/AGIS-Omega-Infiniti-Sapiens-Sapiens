@@ -59,3 +59,12 @@ Tylko **"Konsensus Rojowy"** przeprowadzony z sukcesem przez wszystkie te warstw
 
 ### PODSUMOWANIE GŁÓWNEGO ARCHITEKTA:
 **A.G.I.S. OMEGA INFINITI nie jest nakładką. Jest autonomicznym bunkrem kryptograficznym. Twoje dane nie są naszym produktem, ponieważ nigdy nie opuszczają Twojej maszyny. Tworzymy ewolucję, która ufa wyłącznie Tobie.**
+
+#### 5. Protokół Koloseum: Autonomiczna Selekcja Naturalna Algorytmów
+System A.G.I.S. 3 nie tylko naprawia swój kod, ale bezustannie optymalizuje go pod kątem wydajności. 
+
+Wprowadzona klasa `Auditor` oraz funkcja `update_rejestr` (zrealizowana w module `1784458050.py`) odpowiadają za uruchamianie tzw. Protokołu Koloseum. Podczas generowania nowych narzędzi, system porównuje nowo powstały kod ze starym pod kątem:
+- `execution_time` (Czasu wykonania operacji)
+- `dependencies_complexity` (Złożoności bibliotek i zależności)
+
+Jeśli nowa iteracja kodu wykazuje wyższą optymalizację, system automatycznie nadpisuje rejestr jądra, dokonując ewolucyjnego skoku technologicznego (Self-Optimization) bez ingerencji Głównego Architekta.

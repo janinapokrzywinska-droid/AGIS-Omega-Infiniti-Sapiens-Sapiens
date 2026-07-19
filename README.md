@@ -1,4 +1,4 @@
-A.G.I.S. OMEGA INFINITI Sapiens Sapiens
+A.G.I.S.3 OMEGA INFINITI Sapiens Sapiens
 **Autonomous Governance & Integrity System – Hyper-Intelligent Autonomous OS Layer.**
 *Stworzony przez TEZPIO | Zjednoczone Królestwo Automatyzacji Ulepszeń*
 

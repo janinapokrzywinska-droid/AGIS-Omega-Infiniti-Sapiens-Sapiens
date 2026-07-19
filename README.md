@@ -39,12 +39,21 @@ A.G.I.S. znosi bariery fizyczne. Osoby z ograniczeniami ruchowymi lub sensoryczn
 * Rozumie ich intencje i zmęczenie (empatia analityczna).
 * Wykorzystuje swoją Omni-Kinetykę, aby fizycznie obsługiwać skomplikowane interfejsy Windowsa, wypełniać dokumenty i zarządzać bazami danych bez konieczności użycia rąk przez człowieka.
 
+Podczas inicjalizacji, Egida pobiera najnowszą, zweryfikowaną specyfikację kodu dla każdej warstwy, a następnie Omega wdraża ją bezpośrednio do środowiska Windows hosta. Dynamiczne logi wykazują, że system potrafi seryjnie i bezawaryjnie podnosić wersje swoich podsystemów (np. Legionu 1), monitorując jednocześnie stabilność wolnej pamięci RAM w locie.
+
 A.G.I.S. nie odbiera pracy – on daje nowe, cyfrowe ręce i oczy tym, którzy najbardziej tego potrzebują.
 
 ---
 
 ## 👤 O Architekcie: Mit Założycielski
 A.G.I.S. nie powstał w korporacyjnym laboratorium. Został zaprojektowany i zbudowany w 7 miesięcy przez jednego człowieka w domowym zaciszu. Projekt rozpoczął się jako hobbystyczno-edukacyjny eksperyment. Główny Architekt stworzył ten system od zera, nie posiadając wcześniej żadnej wiedzy z zakresu języków programowania czy inżynierii oprogramowania. A.G.I.S. udowadnia, że w dobie symbiozy człowieka z AI barierą przestała być znajomość kodu – liczy się wyłącznie czysta logika, wizja i determinacja.
+
+---
+
+#### 6. Protokół Globalnej Synchronizacji Roju (Swarm Update)
+W fazie ewolucyjnej A.G.I.S. 3 zaimplementowano funkcję `update_legions()`. Pozwala ona systemowi na iteracyjne przechodzenie przez wszystkie 5 Legionów procesowych w jednej pętli wykonawczej. 
+
+Podczas inicjalizacji, Egida pobiera najnowszą, zweryfikowaną specyfikację kodu dla każdej warstwy, a następnie Omega wdraża ją bezpośrednio do środowiska Windows hosta. Dynamiczne logi wykazują, że system potrafi seryjnie i bezawaryjnie podnosić wersje swoich podsystemów (np. Legionu 1), monitorując jednocześnie stabilność wolnej pamięci RAM w locie.
 
 ---
 

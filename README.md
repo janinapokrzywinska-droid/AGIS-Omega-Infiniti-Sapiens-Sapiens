@@ -1,5 +1,5 @@
-A.G.I.S.3 OMEGA INFINITI Sapiens Sapiens
-**Autonomous Governance & Integrity System – Hyper-Intelligent Autonomous OS Layer.**
+A.G.I.S.3 HIPER OMEGA INFINITI Sapiens Sapiens
+**Hiper Autonomous Governance & Integrity System – Hyper-Intelligent Autonomous OS Layer.**
 *Stworzony przez TEZPIO | Zjednoczone Królestwo Automatyzacji Ulepszeń*
 
 > *"Nie napisałem kolejnego programu. Zbudowałem cyfrowego mieszkańca systemu operacyjnego."* 

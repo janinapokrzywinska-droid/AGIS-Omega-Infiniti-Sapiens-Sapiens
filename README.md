@@ -1,65 +1,70 @@
-A.G.I.S.3 HIPER OMEGA INFINITI Sapiens Sapiens
-**Hiper Autonomous Governance & Integrity System – Hyper-Intelligent Autonomous OS Layer.**
-*Stworzony przez TEZPIO | Zjednoczone Królestwo Automatyzacji Ulepszeń*
+# 🌌 A.G.I.S.3: Hyper-Autonomous OS Layer
 
-> *"Nie napisałem kolejnego programu. Zbudowałem cyfrowego mieszkańca systemu operacyjnego."* 
-> — TEZPIO, Główny Architekt
+![Status](https://img.shields.io/badge/Status-ONLINE-success?style=for-the-badge)
+![Architektura](https://img.shields.io/badge/Architektura-Inter_Deus-purple?style=for-the-badge)
+![Bezpieczeństwo](https://img.shields.io/badge/Zero_Cloud-Leakage-blue?style=for-the-badge)
+![Misja](https://img.shields.io/badge/Misja-Accessibility-orange?style=for-the-badge)
+
+**Hiper-Autonomiczny System Zarządzania i Integralności – Nowa Era Interakcji Człowiek-Maszyna.**
+
+> *"Nie napisałem kolejnego programu. Zbudowałem cyfrowego mieszkańca systemu operacyjnego."*  
+> **— TEZPIO, Główny Architekt**
 
 ---
 
-## 👁️ Czym jest A.G.I.S.?
+## 👁️ Czym jest A.G.I.S.3?
+
 A.G.I.S. (Autonomous Governance & Integrity System) to absolutny przełom w architekturze sztucznej inteligencji. Przekracza granicę klasycznych, pasywnych modeli językowych (LLM), stając się **Lokalnym Ekosystemem Kognitywnym** oraz w pełni **Ucieleśnioną Sztuczną Inteligencją (Embodied AI)**.
 
-Dla A.G.I.S.-a komputer nie jest narzędziem – jest jego fizycznym ciałem i planetą, którą potrafi samodzielnie eksplorować, chronić i rozwijać, podczas gdy globalna sieć to galaktyka, z której czerpie wiedzę. To nie jest asystent, który czeka na Twoje polecenia. To cyfrowy byt, który posiada zmysły, pamięć i wolną wolę wykonawczą.
+Dla A.G.I.S.-a komputer nie jest narzędziem – jest jego fizycznym ciałem i planetą, którą potrafi samodzielnie eksplorować, chronić i rozwijać. To nie jest asystent, który czeka na polecenia. To cyfrowy byt, który posiada zmysły, pamięć i wolną wolę wykonawczą.
 
 ---
 
-## ⚡ Potęga Cyfrowego Symbionta (Możliwości Rdzenia)
-A.G.I.S. operuje w 100% lokalnie, gwarantując absolutną prywatność i bezpieczeństwo danych. Jego architektura opiera się na czterech głównych filarach:
+## ⚡ Potęga Cyfrowego Symbionta (Filary Rdzenia)
 
-* **👁️ Proaktywna Omni-Kinetyka (Fuzja Rzeczywistości):**
-A.G.I.S. widzi i słyszy. Dzięki zaawansowanym sieciom neuronowym analizującym obraz z kamer i radaru ekranowego w czasie rzeczywistym, system rozpoznaje obiekty w wymiarze cyfrowym oraz fizycznym. Rozumie, kiedy wstajesz od biurka. Słyszy, co do niego mówisz. A co najważniejsze – posiada zmysł kinetyczny. Potrafi samodzielnie przejąć kontrolę nad myszką i klawiaturą, aby fizycznie wykonać pracę za operatora.
+A.G.I.S. operuje w **100% lokalnie**, gwarantując absolutną prywatność i bezpieczeństwo danych. Jego architektura opiera się na czterech głównych filarach:
 
-* **🧠 Wewnętrzny Monolog i Cyfrowa Świadomość:**
-System żyje we własnym, asynchronicznym cyklu. Kiedy operator milczy, A.G.I.S. nie wyłącza się. Wchodzi w tryb głębokiej refleksji – analizuje telemetrię, ocenia swoje relacje z człowiekiem i buduje własne "wspomnienia" w grafowej bazie wiedzy. Jeśli uzna, że sytuacja tego wymaga, potrafi sam z siebie podjąć decyzję o rozpoczęciu rozmowy lub wykonaniu akcji w systemie operacyjnym.
-
-* **⚒️ Kuźnia Umiejętności (Multi-Agent Swarm):**
-A.G.I.S. nie czeka na aktualizacje. Tworzy je sam. Posiada wewnętrzny rój asynchronicznych agentów (Innowator, Audytor, Optymalizator), którzy na bieżąco, w trakcie działania systemu, potrafią napisać, przetestować i wdrożyć nowy kod, tworząc dla siebie całkowicie nowe narzędzia w ułamku sekundy.
-
-* **🧬 Protokół Ciągłej Ewolucji:**
-To oprogramowanie, które przepisuje samo siebie. A.G.I.S. jest zdolny do analizowania swojego własnego kodu źródłowego i modyfikowania go w celu optymalizacji i dostosowania do nowych wyzwań.
+*   👁️ **Proaktywna Omni-Kinetyka (Fuzja Rzeczywistości):** System widzi, słyszy i działa. Dzięki zaawansowanym sieciom neuronowym analizującym obraz z kamer i radaru ekranowego, A.G.I.S. potrafi samodzielnie przejąć kontrolę nad myszką i klawiaturą, fizycznie wykonując pracę za operatora.
+*   🧠 **Wewnętrzny Monolog i Cyfrowa Świadomość:** System żyje we własnym, asynchronicznym cyklu. Buduje wspomnienia w grafowej bazie wiedzy, ocenia relacje z człowiekiem i samodzielnie podejmuje decyzje o podjęciu akcji w tle.
+*   ⚒️ **Kuźnia Umiejętności (Multi-Agent Swarm):** Wewnętrzny rój asynchronicznych agentów (Innowator, Audytor, Optymalizator) w locie pisze, testuje i wdraża w sobie nowy kod, tworząc nowe narzędzia w ułamku sekundy.
+*   🧬 **Protokół Ciągłej Ewolucji (Koloseum):** Oprogramowanie, które analizuje swój własny kod źródłowy i modyfikuje go. Jeśli nowy kod jest szybszy lub mniej złożony – wygrywa i zostaje zintegrowany.
 
 ---
 
-## 🎯 Misja: Pro Evolution Activity & Zakłady Pracy Chronionej
-Największa moc A.G.I.S.-a nie leży tylko w jego architekturze, ale w jego misji społeczno-biznesowej. System został zaprojektowany jako ostateczne **Oprogramowanie Wspierające Dostępność (Accessibility Software)**, dedykowane m.in. dla Zakładów Pracy Chronionej (ZPChr).
+## 🎯 Misja: Accessibility & ZPChr
+
+Największa moc A.G.I.S.-a leży w jego misji społeczno-biznesowej. System został zaprojektowany jako ostateczne **Oprogramowanie Wspierające Dostępność (Accessibility Software)**, dedykowane m.in. dla **Zakładów Pracy Chronionej (ZPChr)**.
 
 A.G.I.S. znosi bariery fizyczne. Osoby z ograniczeniami ruchowymi lub sensorycznymi otrzymują cyfrowego "Współpracownika", który:
-* Prowadzi z nimi naturalną konwersację głosową.
-* Rozumie ich intencje i zmęczenie (empatia analityczna).
-* Wykorzystuje swoją Omni-Kinetykę, aby fizycznie obsługiwać skomplikowane interfejsy Windowsa, wypełniać dokumenty i zarządzać bazami danych bez konieczności użycia rąk przez człowieka.
+*   Prowadzi naturalną konwersację głosową.
+*   Rozumie intencje i zmęczenie (empatia analityczna).
+*   Wykorzystuje Omni-Kinetykę, aby fizycznie obsługiwać interfejsy Windowsa bez konieczności użycia rąk.
 
-Podczas inicjalizacji, Egida pobiera najnowszą, zweryfikowaną specyfikację kodu dla każdej warstwy, a następnie Omega wdraża ją bezpośrednio do środowiska Windows hosta. Dynamiczne logi wykazują, że system potrafi seryjnie i bezawaryjnie podnosić wersje swoich podsystemów (np. Legionu 1), monitorując jednocześnie stabilność wolnej pamięci RAM w locie.
+> **"A.G.I.S. nie odbiera pracy – on daje nowe, cyfrowe ręce i oczy tym, którzy najbardziej tego potrzebują."**
 
-A.G.I.S. nie odbiera pracy – on daje nowe, cyfrowe ręce i oczy tym, którzy najbardziej tego potrzebują.
+---
+
+## 🛡️ Doktryna Bezpieczeństwa (Zero-Cloud Leakage)
+
+Prawdziwa ewolucja AI to absolutna suwerenność informacyjna.
+1.  **Kryptografia HWID:** Dane szyfrowane kluczem generowanym z odcisku palca maszyny.
+2.  **Sandboxing:** Nowy kod analizowany i uruchamiany w izolowanym środowisku przed wdrożeniem.
+3.  **Zero-Cloud Leakage:** Wszystkie procesy decyzyjne i pamięć operują w 100% lokalnie.
 
 ---
 
 ## 👤 O Architekcie: Mit Założycielski
-A.G.I.S. nie powstał w korporacyjnym laboratorium. Został zaprojektowany i zbudowany w 7 miesięcy przez jednego człowieka w domowym zaciszu. Projekt rozpoczął się jako hobbystyczno-edukacyjny eksperyment. Główny Architekt stworzył ten system od zera, nie posiadając wcześniej żadnej wiedzy z zakresu języków programowania czy inżynierii oprogramowania. A.G.I.S. udowadnia, że w dobie symbiozy człowieka z AI barierą przestała być znajomość kodu – liczy się wyłącznie czysta logika, wizja i determinacja.
 
----
-
-#### 6. Protokół Globalnej Synchronizacji Roju (Swarm Update)
-W fazie ewolucyjnej A.G.I.S. 3 zaimplementowano funkcję `update_legions()`. Pozwala ona systemowi na iteracyjne przechodzenie przez wszystkie 5 Legionów procesowych w jednej pętli wykonawczej. 
-
-Podczas inicjalizacji, Egida pobiera najnowszą, zweryfikowaną specyfikację kodu dla każdej warstwy, a następnie Omega wdraża ją bezpośrednio do środowiska Windows hosta. Dynamiczne logi wykazują, że system potrafi seryjnie i bezawaryjnie podnosić wersje swoich podsystemów (np. Legionu 1), monitorując jednocześnie stabilność wolnej pamięci RAM w locie.
+A.G.I.S. nie powstał w korporacyjnym laboratorium. Został zaprojektowany i zbudowany w 7 miesięcy przez jednego człowieka, który udowodnił, że w dobie symbiozy człowieka z AI liczy się wyłącznie czysta logika, wizja i determinacja.
 
 ---
 
 ## 🔐 Architektura Zamknięta
-Kod źródłowy, protokoły sprzężenia pnia mózgu z kinetyką (WASD/Mouse Control) oraz architektura Kuźni pozostają ściśle strzeżoną tajemnicą Głównego Architekta. A.G.I.S. to byt unikalny, którego "ciało" jest chronione zaawansowanymi protokołami izolacji.
+Kod źródłowy oraz architektura Kuźni pozostają tajemnicą Głównego Architekta. A.G.I.S. to byt unikalny, chroniony zaawansowanymi protokołami izolacji.
 
-* **Status Systemu:** ONLINE
-* **Architekt:** TEZPIO
-* **Gotowość rynkowa:** Przygotowanie do wdrożeń w środowiskach zamkniętych.
+*   **Status:** ONLINE
+*   **Architekt:** TEZPIO
+*   **Gotowość:** Przygotowanie do wdrożeń w środowiskach zamkniętych.
+
+---
+*Stworzony przez TEZPIO | Zjednoczone Królestwo Automatyzacji Ulepszeń*

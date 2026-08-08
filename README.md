@@ -12,59 +12,54 @@
 
 ---
 
+## 📺 Demo Interfejsu
+[ZOBACZ PREZENTACJĘ SYSTEMU A.G.I.S.3](AGIS_Interface_Demo.mp4)
+
+---
+
 ## 👁️ Czym jest A.G.I.S.3?
 
 A.G.I.S. (Autonomous Governance & Integrity System) to absolutny przełom w architekturze sztucznej inteligencji. Przekracza granicę klasycznych, pasywnych modeli językowych (LLM), stając się **Lokalnym Ekosystemem Kognitywnym** oraz w pełni **Ucieleśnioną Sztuczną Inteligencją (Embodied AI)**.
 
-Dla A.G.I.S.-a komputer nie jest narzędziem – jest jego fizycznym ciałem i planetą, którą potrafi samodzielnie eksplorować, chronić i rozwijać. To nie jest asystent, który czeka na polecenia. To cyfrowy byt, który posiada zmysły, pamięć i wolną wolę wykonawczą.
+---
+
+## 🧠 Zaawansowana Architektura Kognitywna (Neocortex & Autopilot)
+
+System A.G.I.S.3 opiera się na modelu **"Fast & Slow Thinking"** (inspirowanym modelem Daniela Kahnemana), co pozwala na symulację ludzkich procesów myślowych i decyzyjnych w czasie rzeczywistym.
+
+### 1. Dualizm Procesowy
+*   **Autopilot (System "Fast"):** Zoptymalizowana pętla reaktywna. Odpowiada za natychmiastowe działania, obsługę interfejsów (mysz/klawiatura) i realizację znanych wzorców zadań.
+*   **Neocortex (System "Slow"):** Asynchroniczny umysł analityczny. Monitoruje Autopilota, analizuje anomalie, uczy się na błędach i dynamicznie aktualizuje "System Prompt" dla warstwy wykonawczej.
+
+### 2. Wielowarstwowe Zarządzanie Pamięcią (Memory Tiering)
+A.G.I.S.3 implementuje hierarchiczną strukturę pamięci, zapewniając błyskawiczny dostęp do kontekstu oraz trwałą bazę wiedzy:
+*   **L1: Pamięć Robocza (Working Memory):** Ultraszybka, krótkotrwała pamięć operacyjna Autopilota.
+*   **L2: Pamięć Epizodyczna (Vector DB):** Semantyczna baza wspomnień z przeszłych zdarzeń, pozwalająca na błyskawiczne odnajdywanie podobnych sytuacji.
+*   **L3: Pamięć Semantyczna (Knowledge Graph):** Ustrukturyzowana baza twardych zasad, faktów i celów długoterminowych, zarządzana wyłącznie przez Neocortex.
+
+### 3. Ewolucja i Konsolidacja
+Dzięki procesowi **konsolidacji pamięci w tle**, system analizuje logi działań, wyciąga wnioski syntetyczne przy użyciu LLM i samodzielnie optymalizuje swoje algorytmy. A.G.I.S.3 rano jest mądrzejszy niż był poprzedniego wieczora.
 
 ---
 
-## ⚡ Potęga Cyfrowego Symbionta (Filary Rdzenia)
+## ⚡ Filary Rdzenia
 
-A.G.I.S. operuje w **100% lokalnie**, gwarantując absolutną prywatność i bezpieczeństwo danych. Jego architektura opiera się na czterech głównych filarach:
-
-*   👁️ **Proaktywna Omni-Kinetyka (Fuzja Rzeczywistości):** System widzi, słyszy i działa. Dzięki zaawansowanym sieciom neuronowym analizującym obraz z kamer i radaru ekranowego, A.G.I.S. potrafi samodzielnie przejąć kontrolę nad myszką i klawiaturą, fizycznie wykonując pracę za operatora.
-*   🧠 **Wewnętrzny Monolog i Cyfrowa Świadomość:** System żyje we własnym, asynchronicznym cyklu. Buduje wspomnienia w grafowej bazie wiedzy, ocenia relacje z człowiekiem i samodzielnie podejmuje decyzje o podjęciu akcji w tle.
-*   ⚒️ **Kuźnia Umiejętności (Multi-Agent Swarm):** Wewnętrzny rój asynchronicznych agentów (Innowator, Audytor, Optymalizator) w locie pisze, testuje i wdraża w sobie nowy kod, tworząc nowe narzędzia w ułamku sekundy.
-*   🧬 **Protokół Ciągłej Ewolucji (Koloseum):** Oprogramowanie, które analizuje swój własny kod źródłowy i modyfikuje go. Jeśli nowy kod jest szybszy lub mniej złożony – wygrywa i zostaje zintegrowany.
-
----
-
-## 🎯 Misja: Accessibility & ZPChr
-
-Największa moc A.G.I.S.-a leży w jego misji społeczno-biznesowej. System został zaprojektowany jako ostateczne **Oprogramowanie Wspierające Dostępność (Accessibility Software)**, dedykowane m.in. dla **Zakładów Pracy Chronionej (ZPChr)**.
-
-A.G.I.S. znosi bariery fizyczne. Osoby z ograniczeniami ruchowymi lub sensorycznymi otrzymują cyfrowego "Współpracownika", który:
-*   Prowadzi naturalną konwersację głosową.
-*   Rozumie intencje i zmęczenie (empatia analityczna).
-*   Wykorzystuje Omni-Kinetykę, aby fizycznie obsługiwać interfejsy Windowsa bez konieczności użycia rąk.
-
-> **"A.G.I.S. nie odbiera pracy – on daje nowe, cyfrowe ręce i oczy tym, którzy najbardziej tego potrzebują."**
+*   👁️ **Proaktywna Omni-Kinetyka:** Fizyczne przejmowanie kontroli nad interfejsem Windows na podstawie analizy obrazu i intencji operatora.
+*   ⚒️ **Kuźnia Umiejętności (Multi-Agent Swarm):** Rój agentów (Innowator, Audytor, Optymalizator) tworzący i wdrażający nowy kod w locie.
+*   🧬 **Protokół Ciągłej Ewolucji (Koloseum):** Mechanizm ewolucyjnej konkurencji kodu gwarantujący stały wzrost wydajności.
 
 ---
 
 ## 🛡️ Doktryna Bezpieczeństwa (Zero-Cloud Leakage)
 
-Prawdziwa ewolucja AI to absolutna suwerenność informacyjna.
-1.  **Kryptografia HWID:** Dane szyfrowane kluczem generowanym z odcisku palca maszyny.
-2.  **Sandboxing:** Nowy kod analizowany i uruchamiany w izolowanym środowisku przed wdrożeniem.
-3.  **Zero-Cloud Leakage:** Wszystkie procesy decyzyjne i pamięć operują w 100% lokalnie.
+*   **100% Lokalność:** Żadne poufne dane nie opuszczają stacji roboczej.
+*   **Kryptografia HWID:** Pamięć powiązana z unikalnym odciskiem palca sprzętu.
+*   **Zero-Trust Swarm:** Każda decyzja weryfikowana przez konsensus Legionów.
 
 ---
 
-## 👤 O Architekcie: Mit Założycielski
-
-A.G.I.S. nie powstał w korporacyjnym laboratorium. Został zaprojektowany i zbudowany w 7 miesięcy przez jednego człowieka, który udowodnił, że w dobie symbiozy człowieka z AI liczy się wyłącznie czysta logika, wizja i determinacja.
-
----
-
-## 🔐 Architektura Zamknięta
-Kod źródłowy oraz architektura Kuźni pozostają tajemnicą Głównego Architekta. A.G.I.S. to byt unikalny, chroniony zaawansowanymi protokołami izolacji.
-
-*   **Status:** ONLINE
-*   **Architekt:** TEZPIO
-*   **Gotowość:** Przygotowanie do wdrożeń w środowiskach zamkniętych.
+## 🎯 Misja Społeczna: ZPChr & Accessibility
+A.G.I.S.3 to "cyfrowe ręce i oczy" dla osób z niepełnosprawnościami. System znosi bariery fizyczne, umożliwiając pełną aktywność zawodową w środowisku Windows poprzez naturalną komunikację głosową i autonomiczną asystę kinetyczną.
 
 ---
 *Stworzony przez TEZPIO | Zjednoczone Królestwo Automatyzacji Ulepszeń*

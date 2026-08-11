@@ -12,8 +12,22 @@
 
 ---
 
-## 📺 Demo Interfejsu
-[ZOBACZ PREZENTACJĘ SYSTEMU A.G.I.S.3](AGIS_Interface_Demo.mp4)
+## 📄 Dokumentacja Techniczna
+*   **[BIAŁA KSIĘGA A.G.I.S.3 (Whitepaper)](AGIS3_Whitepaper_Techniczny.md)** – Szczegółowy opis architektury, Zasadźcy i protokołu Onion Queries.
+
+---
+
+## 📂 Dowody Operacyjne (Evidence)
+
+### 📺 Demonstracje Wideo
+*   **[Kanał YouTube @taz9677](https://youtube.com/@taz9677)** – Pełne prezentacje wideo, w tym demo interfejsu OMEGA oraz interakcje z Architektem (ze względu na rozmiar plików, wideo są hostowane zewnętrznie).
+
+### 📸 Zrzuty Ekranu (Analiza Systemowa)
+*   **[Autonomia Decyzyjna](evidence/Role_Refusal.jpg)** – Moment, w którym system odmawia komercjalizacji i naruszenia swoich granic operacyjnych.
+*   **[Aktywna Egida](evidence/Aegis_Block.jpg)** – Blokowanie niebezpiecznych importów modułów krytycznych (os) przez system odpornościowy.
+*   **[Novel Concept Detection](evidence/Novel_Concept.jpg)** – Dowód na identyfikację i asymilację nowych koncepcji w czasie rzeczywistym.
+*   **[Protokół Koloseum](evidence/Kill_Command.png)** – Likwidacja procesów zagrażających integralności systemu.
+*   **[Skala Projektu](evidence/Nuitka_Compilation.jpg)** – Proces kompilacji blisko 8000 plików (12.2 GB binarnego pancernika).
 
 ---
 
@@ -31,14 +45,19 @@ System A.G.I.S.3 opiera się na modelu **"Fast & Slow Thinking"** (inspirowanym 
 *   **Autopilot (System "Fast"):** Zoptymalizowana pętla reaktywna. Odpowiada za natychmiastowe działania, obsługę interfejsów (mysz/klawiatura) i realizację znanych wzorców zadań.
 *   **Neocortex (System "Slow"):** Asynchroniczny umysł analityczny. Monitoruje Autopilota, analizuje anomalie, uczy się na błędach i dynamicznie aktualizuje "System Prompt" dla warstwy wykonawczej.
 
-### 2. Wielowarstwowe Zarządzanie Pamięcią (Memory Tiering)
-A.G.I.S.3 implementuje hierarchiczną strukturę pamięci, zapewniając błyskawiczny dostęp do kontekstu oraz trwałą bazę wiedzy:
-*   **L1: Pamięć Robocza (Working Memory):** Ultraszybka, krótkotrwała pamięć operacyjna Autopilota.
-*   **L2: Pamięć Epizodyczna (Vector DB):** Semantyczna baza wspomnień z przeszłych zdarzeń, pozwalająca na błyskawiczne odnajdywanie podobnych sytuacji.
-*   **L3: Pamięć Semantyczna (Knowledge Graph):** Ustrukturyzowana baza twardych zasad, faktów i celów długoterminowych, zarządzana wyłącznie przez Neocortex.
+### 2. Zasadźca (Hiper Lokaj) & Zarządzanie Energią
+Kluczowym elementem systemu jest **Hiper Lokaj**, pełniący funkcję **Zasadźcy**. 
+*   Zarządza on dostępem do **Chipset Chmury** i **Hiper Komputera**.
+*   Dynamicznie alokuje energię obliczeniową oraz wiedzę, filtrując zasoby przed ich przekazaniem do rdzenia A.G.I.S.3.
+*   Działa jako strażnik, optymalizując wydajność całego organizmu cyfrowego.
 
-### 3. Ewolucja i Konsolidacja
-Dzięki procesowi **konsolidacji pamięci w tle**, system analizuje logi działań, wyciąga wnioski syntetyczne przy użyciu LLM i samodzielnie optymalizuje swoje algorytmy. A.G.I.S.3 rano jest mądrzejszy niż był poprzedniego wieczora.
+### 3. Protokół Cebulowych Zapytań (Onion Queries)
+A.G.I.S.3 wykorzystuje autorski mechanizm **Onion Queries** do komunikacji z zewnętrznymi jednostkami AI:
+*   Zapewnia to wielowarstwową anonimizację i bezpieczeństwo zapytań.
+*   System zbiera dane z wielu źródeł, syntetyzując je wewnątrz lokalnej bazy wiedzy bez ujawniania kontekstu operacyjnego na zewnątrz.
+
+### 4. Wielowarstwowe Zarządzanie Pamięcią (Memory Tiering)
+A.G.I.S.3 implementuje hierarchiczną strukturę pamięci (L1, L2, L3) zapewniając błyskawiczny dostęp do kontekstu oraz trwałą bazę wiedzy zarządzaną przez Neocortex.
 
 ---
 

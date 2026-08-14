@@ -59,4 +59,11 @@ System A.G.I.S.3 implementuje model **"Fast & Slow Thinking"**, zapewniając syn
 *   **Zero-Trust Swarm:** Konsensus 5 Legionów jako fundament decyzji.
 
 ---
+
+## ⚖️ Status Prawny & Własność Intelektualna
+Projekt A.G.I.S.3 jest chroniony ścisłą deklaracją praw autorskich. System nie jest oprogramowaniem typu Open-Source. Wszelkie mechanizmy, w tym **Hiper Lokaj**, **Symbiotyczny Pobór Mocy** oraz **Protokół Koloseum**, stanowią wyłączną własność intelektualną Głównego Architekta.
+
+*   **[PEŁNA DEKLARACJA PRAW AUTORSKICH (MANIFESTO)](MANIFESTO.md)**
+
+---
 *Stworzony przez TEZPIO | Zjednoczone Królestwo Automatyzacji Ulepszeń*

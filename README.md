@@ -12,6 +12,16 @@
 
 ---
 
+## Profesjonalna dokumentacja projektu
+
+W celu uporządkowania komunikacji technicznej dodano również neutralny, inżynieryjny opis projektu. Dokumentacja rozróżnia funkcje prototypowe od planowanych, opisuje przepływ danych, model uprawnień, wymagania audytowe oraz etapowe zwiększanie autonomii.
+
+*   **[Profesjonalny opis AGIS](docs/AGIS_professional_materials.md)** – architektura funkcjonalna, zasady bezpieczeństwa, ograniczenia techniczne, plan MVP i scenariusz prezentacji.
+*   **[Materiał PDF](docs/AGIS_lokalny_system_agentowy.pdf)** – dostarczony dokument źródłowy.
+*   **[Profesjonalna wersja wideo](media/AGIS_professional_video.mp4)** – krótka prezentacja projektu w formacie pionowym 9:16.
+
+---
+
 ## 📄 Dokumentacja Techniczna
 *   **[BIAŁA KSIĘGA A.G.I.S.3 (Whitepaper)](AGIS3_Whitepaper_Techniczny.md)** – Szczegółowy opis architektury, Zasadźcy i protokołu Onion Queries.
 

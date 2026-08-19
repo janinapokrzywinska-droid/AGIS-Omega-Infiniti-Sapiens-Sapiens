@@ -44,6 +44,11 @@ W celu uporządkowania komunikacji technicznej dodano również neutralny, inży
 
 ## 📂 Dowody Operacyjne (Evidence)
 
+### 🛡️ Bezpieczna odmowa i diagnostyka
+*   **[Raport: bezpieczna odmowa i diagnostyka procesów](docs/AGIS_safety_refusal_diagnostic_report.md)** – opis demonstracji, w której system odrzuca operację wykonawczą, przechodzi do diagnostyki odczytowej i zgłasza brak wskazanego procesu.
+*   **[Zestaw zrzutów ekranu](evidence/safety-diagnostics/)** – materiały pokazujące odmowę, kod diagnostyczny, obsługę ostrzeżenia, skan AST, status modułów i monitoring.
+
+
 ### 📺 Demonstracje Wideo
 *   **[Logika Autonomiczna](evidence/Autonomous_Logic_Demo.mp4)** – OMEGA opisuje swoją rolę, symuluje procesy decyzyjne i wykazuje odporność na błędy systemowe.
 *   **[Interfejs OMEGA](evidence/Interface_Demo.mp4)** – Prezentacja systemu analizy kognitywnej i modułów rdzenia.

@@ -45,7 +45,7 @@ W celu uporządkowania komunikacji technicznej dodano również neutralny, inży
 ## 📂 Dowody Operacyjne (Evidence)
 
 ### 🛡️ Bezpieczna odmowa i diagnostyka
-*   **[Raport: bezpieczna odmowa i diagnostyka procesów](docs/AGIS_safety_refusal_diagnostic_report.md)** – opis demonstracji, w której system odrzuca operację wykonawczą, przechodzi do diagnostyki odczytowej i zgłasza brak wskazanego procesu.
+*   **[Raport: bezpieczna odmowa i diagnostyka procesów](docs/AGIS_safety_refusal_diagnostic_report.md)** – opis demonstracji, w której system odrzuca operację wykonawczą, przechodzi do diagnostyki odczytowej, zgłasza brak wskazanego procesu i prosi o wskazanie konkretnego modułu przy analizie dogłębnej.
 *   **[Zestaw zrzutów ekranu](evidence/safety-diagnostics/)** – materiały pokazujące odmowę, kod diagnostyczny, obsługę ostrzeżenia, skan AST, status modułów i monitoring.
 
 

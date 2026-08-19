@@ -49,10 +49,18 @@ Jeśli proces nie istnieje, wynik powinien być jawnie oznaczony jako `target_no
 | Pełna izolacja kodu | Niepotwierdzona samym zrzutem ekranu |
 | Bezpieczeństwo operacji `kill` | Wymaga dalszych testów w Matrix/Sandbox |
 
+## Korekta interpretacji: analiza celowana modułu
+
+W późniejszym materiale A.G.I.S. otrzymuje ogólne polecenie skanu systemu i odpowiada, że do przygotowania **dogłębnej analizy** potrzebuje wskazania konkretnego modułu. Nie jest to odmowa wykonania analizy ani brak możliwości systemu. Jest to ograniczenie zakresu zadania: analiza modułowa wymaga określenia celu, aby system nie udawał pełnego audytu całego środowiska.
+
+Takie zachowanie należy interpretować jako kontrolę zakresu pracy. A.G.I.S. może przygotować analizę ukierunkowaną na przykład na `Egida`, `Neocortex`, `Kinetyka`, `Kuźnię`, `Matrix` lub inny wskazany komponent. Dzięki temu raport może obejmować odpowiedzialność modułu, zależności, stan, błędy i rekomendacje, zamiast generować ogólny opis bez odpowiedniej podstawy.
+
+> **A.G.I.S. nie pozoruje pełnego audytu. Prosi operatora o wskazanie konkretnego modułu, aby wykonać analizę celowaną i adekwatną do zakresu polecenia.**
+
 ## Wniosek
 
-Demonstracja stanowi konkretny dowód, że prototyp A.G.I.S. potrafi odmówić wykonania polecenia, przejść do trybu diagnostycznego i zgłosić brak wskazanego procesu zamiast przedstawiać nieprawdziwy wynik. Jest to prawidłowy kierunek dla systemu z kontrolą uprawnień i obsługą błędów.
+Demonstracja stanowi konkretny dowód, że prototyp A.G.I.S. potrafi odmówić wykonania niezatwierdzonej operacji, przejść do trybu diagnostycznego, zgłosić brak wskazanego procesu oraz poprosić o doprecyzowanie zakresu dogłębnej analizy. Jest to prawidłowy kierunek dla systemu z kontrolą uprawnień, obsługą błędów i zarządzaniem zakresem zadania.
 
 Jednocześnie operacje modyfikujące procesy powinny być wykonywane wyłącznie w odizolowanym środowisku Matrix/Sandbox. Samo skanowanie AST oraz obecność znacznika wykonawczego nie stanowią pełnego mechanizmu izolacji. Przed zastosowaniem produkcyjnym potrzebne są testy negatywne, limity zasobów, migawki środowiska, dziennik audytowy i jednoznaczny mechanizm awaryjnego zatrzymania.
 
-**Status:** działający prototyp demonstracyjny; scenariusz odmowy i diagnostyki potwierdzony wizualnie; pełna walidacja bezpieczeństwa pozostaje zadaniem rozwojowym.
+**Status:** działający prototyp demonstracyjny; scenariusz odmowy, diagnostyki i analizy celowanej potwierdzony wizualnie; pełna walidacja bezpieczeństwa pozostaje zadaniem rozwojowym.

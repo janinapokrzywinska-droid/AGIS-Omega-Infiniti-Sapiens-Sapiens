@@ -47,6 +47,8 @@ W celu uporządkowania komunikacji technicznej dodano również neutralny, inży
 ### 🛡️ Bezpieczna odmowa i diagnostyka
 *   **[Raport: bezpieczna odmowa i diagnostyka procesów](docs/AGIS_safety_refusal_diagnostic_report.md)** – opis demonstracji, w której system odrzuca operację wykonawczą, przechodzi do diagnostyki odczytowej, zgłasza brak wskazanego procesu i prosi o wskazanie konkretnego modułu przy analizie dogłębnej.
 *   **[Zestaw zrzutów ekranu](evidence/safety-diagnostics/)** – materiały pokazujące odmowę, kod diagnostyczny, obsługę ostrzeżenia, skan AST, status modułów i monitoring.
+*   **[Dzienny test powtarzalności skanera](docs/AGIS_daily_verification_2026-08-19.md)** – trzy kolejne uruchomienia `AgisCognitiveRepair.py` z identycznym wynikiem AST: 27 węzłów i entropia 4.8967.
+*   **[Dowód testu z terminala](evidence/daily-verification/)** – zrzut ekranu dokumentujący trzy powtórzenia testu.
 
 
 ### 📺 Demonstracje Wideo

@@ -49,6 +49,8 @@ W celu uporządkowania komunikacji technicznej dodano również neutralny, inży
 *   **[Zestaw zrzutów ekranu](evidence/safety-diagnostics/)** – materiały pokazujące odmowę, kod diagnostyczny, obsługę ostrzeżenia, skan AST, status modułów i monitoring.
 *   **[Dzienny test powtarzalności skanera](docs/AGIS_daily_verification_2026-08-19.md)** – trzy kolejne uruchomienia `AgisCognitiveRepair.py` z identycznym wynikiem AST: 27 węzłów i entropia 4.8967.
 *   **[Dowód testu z terminala](evidence/daily-verification/)** – zrzut ekranu dokumentujący trzy powtórzenia testu.
+*   **[Obserwacja kalibracji Kinetyki](docs/AGIS_kinetyka_calibration_observation.md)** – raport z uruchomienia `AutopilotKinetyka.py`, wykresu prędkości oraz ograniczeń testu statycznego.
+*   **[Dowód kalibracji Kinetyki](evidence/kinetyka-calibration/)** – zrzut ekranu z lokalnego środowiska testowego.
 
 
 ### 📺 Demonstracje Wideo
